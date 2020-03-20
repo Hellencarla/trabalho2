@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+<style>
+	body{
+		background: #87CEEB; 
+	}
+</style>
  <meta charset="utf-8"/>
 
 </head>
