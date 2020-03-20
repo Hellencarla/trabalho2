@@ -21,17 +21,17 @@
   $disc= "Progamação";
       echo "<img src=".$mostrar["img"]." style=\"width:170px;height:200px;\">";
       echo "</br>";
-      echo "Nome: ".$nome."</br>";
-      echo "Apelido: ".$apelido."</br>";
+      echo "<b>Nome:</b> ".$nome."</br>";
+      echo "<b>Apelido:</b> ".$apelido."</br>";
       echo "</br>";
-      echo "Endereço:"."</br>";
-      echo "Bairro: ".$bairro."</br>";
-      echo "Rua:".$rua."</br>";
-      echo "Cidade:".$cidade."</br>";
+      echo "<b>Endereço:</b>"."</br>";
+      echo "<b>Bairro:</b> ".$bairro."</br>";
+      echo "<b>Rua:</b>".$rua."</br>";
+      echo "<b>Cidade:</b>".$cidade."</br>";
       echo "</br>";
-      echo "Email:". $email."</br>";
-      echo "Curso:".$curso."</br>";
-      echo"Diciplina:".$disc;
+      echo "<b>Email:</b>". $email."</br>";
+      echo "<b>Curso:</b>".$curso."</br>";
+      echo"<b>Diciplina</b>:".$disc;
 ?>
 </center>
 </body>
